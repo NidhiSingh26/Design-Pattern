@@ -1,0 +1,14 @@
+D:\Demo\Design Pattern\Design Pattern\bin\Debug\netcoreapp3.1\Factory_DesignPattern.exe
+D:\Demo\Design Pattern\Design Pattern\bin\Debug\netcoreapp3.1\Factory_DesignPattern.deps.json
+D:\Demo\Design Pattern\Design Pattern\bin\Debug\netcoreapp3.1\Factory_DesignPattern.runtimeconfig.json
+D:\Demo\Design Pattern\Design Pattern\bin\Debug\netcoreapp3.1\Factory_DesignPattern.runtimeconfig.dev.json
+D:\Demo\Design Pattern\Design Pattern\bin\Debug\netcoreapp3.1\Factory_DesignPattern.dll
+D:\Demo\Design Pattern\Design Pattern\bin\Debug\netcoreapp3.1\Factory_DesignPattern.pdb
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.csproj.AssemblyReference.cache
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.AssemblyInfoInputs.cache
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.AssemblyInfo.cs
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.csproj.CoreCompileInputs.cache
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.dll
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.pdb
+D:\Demo\Design Pattern\Design Pattern\obj\Debug\netcoreapp3.1\Factory_DesignPattern.genruntimeconfig.cache
